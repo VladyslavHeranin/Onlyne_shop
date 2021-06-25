@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Onlyne_shop/static/css/main.ae6b523c.chunk.css",
-    "main.js": "/Onlyne_shop/static/js/main.ca0fc640.chunk.js",
-    "main.js.map": "/Onlyne_shop/static/js/main.ca0fc640.chunk.js.map",
+    "main.js": "/Onlyne_shop/static/js/main.adc2fba1.chunk.js",
+    "main.js.map": "/Onlyne_shop/static/js/main.adc2fba1.chunk.js.map",
     "runtime-main.js": "/Onlyne_shop/static/js/runtime-main.45bfbe41.js",
     "runtime-main.js.map": "/Onlyne_shop/static/js/runtime-main.45bfbe41.js.map",
     "static/css/2.0a49d93f.chunk.css": "/Onlyne_shop/static/css/2.0a49d93f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.0a49d93f.chunk.css",
     "static/js/2.3d7ddeaf.chunk.js",
     "static/css/main.ae6b523c.chunk.css",
-    "static/js/main.ca0fc640.chunk.js"
+    "static/js/main.adc2fba1.chunk.js"
   ]
 }
