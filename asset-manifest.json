@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Onlyne_shop/static/css/main.ae6b523c.chunk.css",
+    "main.js": "/Onlyne_shop/static/js/main.ca0fc640.chunk.js",
+    "main.js.map": "/Onlyne_shop/static/js/main.ca0fc640.chunk.js.map",
+    "runtime-main.js": "/Onlyne_shop/static/js/runtime-main.45bfbe41.js",
+    "runtime-main.js.map": "/Onlyne_shop/static/js/runtime-main.45bfbe41.js.map",
+    "static/css/2.0a49d93f.chunk.css": "/Onlyne_shop/static/css/2.0a49d93f.chunk.css",
+    "static/js/2.3d7ddeaf.chunk.js": "/Onlyne_shop/static/js/2.3d7ddeaf.chunk.js",
+    "static/js/2.3d7ddeaf.chunk.js.map": "/Onlyne_shop/static/js/2.3d7ddeaf.chunk.js.map",
+    "static/js/3.66819a6d.chunk.js": "/Onlyne_shop/static/js/3.66819a6d.chunk.js",
+    "static/js/3.66819a6d.chunk.js.map": "/Onlyne_shop/static/js/3.66819a6d.chunk.js.map",
+    "index.html": "/Onlyne_shop/index.html",
+    "static/css/2.0a49d93f.chunk.css.map": "/Onlyne_shop/static/css/2.0a49d93f.chunk.css.map",
+    "static/css/main.ae6b523c.chunk.css.map": "/Onlyne_shop/static/css/main.ae6b523c.chunk.css.map",
+    "static/js/2.3d7ddeaf.chunk.js.LICENSE.txt": "/Onlyne_shop/static/js/2.3d7ddeaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45bfbe41.js",
+    "static/css/2.0a49d93f.chunk.css",
+    "static/js/2.3d7ddeaf.chunk.js",
+    "static/css/main.ae6b523c.chunk.css",
+    "static/js/main.ca0fc640.chunk.js"
+  ]
+}
